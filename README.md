@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nodir-malikov
 - 👀 I’m interested in Python, Java, C#, JS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on - Not Found 404
+- 💞️ I’m looking to collaborate on - projects that inspire me
 - 📫 How to reach me https://t.me/mal1kov
 
 <!---
