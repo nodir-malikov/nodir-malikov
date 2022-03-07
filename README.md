@@ -37,6 +37,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+### 🖌 &nbsp;Design Skills
+
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-05122A?style=flat&logo=CorelDRAW)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=AdobePhotoshop)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=AdobePremierePro)&nbsp;
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=AdobeAfterEffects)&nbsp;
+![Sony Vegas Pro](https://img.shields.io/badge/-Sony%20Vegas%20Pro-05122A?style=flat&logo=SonyVegasPro)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
