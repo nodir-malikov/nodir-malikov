@@ -1,25 +1,30 @@
 
-<img alt="Hand Wave" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm Mehmet</h2>
+<img alt="Hand Wave" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm Nodir</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-✍ &nbsp;I'm working on Payment and E-commerce.\
-📺 &nbsp;In my free time, I create content for Twitch and Youtube.\
-🎮 &nbsp;I often play strategy games.
+✍ &nbsp;I'm working on:\
+          • Web sites\
+          • Telegram bots\
+          • Payment systems\
+          • E-commerce development\
+📺 &nbsp;In my free time, I'm coding too :)\
+🎮 &nbsp;I rarely play CS:GO.
 
 <img alt="Night Coding" src="./assets/night-coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/Go-05122A?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c++&logoColor=white)&nbsp;
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -32,16 +37,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/mkaykisiz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaykisiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaykisiz&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nodir-malikov">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nodir-malikov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nodir-malikov&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://blog.kaykisiz.com"><img src="https://img.shields.io/badge/-blog.kaykisiz.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mehmetkaykisiz"><img src="https://img.shields.io/badge/-Mehmet%20KAYKISIZ-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:m.kaykisiz@gmail.com"><img src="https://img.shields.io/badge/-m.kaykisiz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mal1kov.uz"><img src="https://img.shields.io/badge/-mal1kov.uz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mal1kov"><img src="https://img.shields.io/badge/-Nodir%20Malikov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nodir@mal1kov.uz"><img src="https://img.shields.io/badge/-nodir@mal1kov.uz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
