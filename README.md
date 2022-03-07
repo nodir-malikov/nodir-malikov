@@ -46,7 +46,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mal1kov.uz"><img src="https://img.shields.io/badge/-mal1kov.uz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://mal1kov.uz"><img src="https://img.shields.io/badge/-mal1kov.uz-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://t.me/mal1kov"><img src="https://img.shields.io/badge/-@mal1kov-3423A6?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mal1kov"><img src="https://img.shields.io/badge/-Nodir%20Malikov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nodir@mal1kov.uz"><img src="https://img.shields.io/badge/-nodir@mal1kov.uz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
