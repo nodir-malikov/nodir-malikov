@@ -7,10 +7,10 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍ &nbsp;I'm working on:\
-          • Web sites\
-          • Telegram bots\
-          • Payment systems\
-          • E-commerce development\
+         • Web sites\
+         • Telegram bots\
+         • Payment systems\
+         • E-commerce development\
 📺 &nbsp;In my free time, I'm coding too :)\
 🎮 &nbsp;I rarely play CS:GO.
 
