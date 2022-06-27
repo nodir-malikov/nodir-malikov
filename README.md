@@ -13,7 +13,7 @@
 📺 &nbsp;In my free time, I'm coding too :)\
 🎮 &nbsp;I rarely play CS:GO.
 
-<img alt="Night Coding" src="./assets/night-coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/night-coding.gif" align=""/>
 
 ### 🛠 &nbsp;Tech Stack
 
